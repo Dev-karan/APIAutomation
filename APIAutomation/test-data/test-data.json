@@ -1,0 +1,46 @@
+{
+	"loginTestData": {
+		"positive": [
+			{
+				"username": "abc",
+				"password": "1234",
+				"key": "1122"
+			},
+			{
+				"username": "def",
+				"password": "1234",
+				"key": "1133"
+			},
+			{
+				"username": "ghi",
+				"password": "1234"
+			},
+			{
+				"username": "jkl",
+				"password": "1234",
+				"key": "1144"
+			}
+		],
+		"negative": [
+			{
+				"username": "abc",
+				"password": "1234",
+				"key": "1122"
+			},
+			{
+				"username": "def",
+				"password": "1234",
+				"key": "1133"
+			},
+			{
+				"username": "ghi",
+				"password": "1234"
+			},
+			{
+				"username": "jkl",
+				"password": "1234",
+				"key": "1144"
+			}
+		]
+	}
+}
